@@ -1,8 +1,8 @@
 # lending-club-case-study-upgrad
 
 ## Members in the group:
-- Soumya Subhra Bhowmik (Git-hub link: https://github.com/SamSB94)
 - Sahadev Sawant
+- Soumya Subhra Bhowmik (Git-hub link: https://github.com/SamSB94)
 
 ## Problem Statement
 
