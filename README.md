@@ -39,10 +39,6 @@ In other words, the comapny wants to understand the __driving factors__ (__or dr
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significane should be enough).
 
-## Data Understanding
-
-The dataset and the data dictionary is included in the __data__ folder.
-
 ## Results Expected:
 
 1. Write all your code in one well-commented Python file; briefly mention the insights and observations from the analysis.
